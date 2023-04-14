@@ -2,6 +2,8 @@
 
 TektronixPy is a lightweight, user-friendly Python library designed for controlling a variety of Tektronix oscilloscopes using the PyVISA library. The codebase is structured as a template, allowing future engineers to easily build upon and extend its functionality. Whether you're working with digital, mixed signal, or portable oscilloscopes, TektronixPy provides a solid foundation for your projects.
 
+For questions or feature requests, please contact **Jephthah Akene** at 0xtachi@gmail.com. As an independent researcher, I built this project purely for the joy of creating something both enjoyable and practical. If you love to tinker and build innovative control systems, feel free to email me!
+
 ## Table of Contents
 - [TektronixPy](#tektronixpy)
   - [Table of Contents](#table-of-contents)
